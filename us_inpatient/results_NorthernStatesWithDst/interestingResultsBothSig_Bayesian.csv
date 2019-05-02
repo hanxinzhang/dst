@@ -1,0 +1,2 @@
+,Condition,System,Relative Risk (Spring),99.9% C.I. (Spring),Spring Significant?,Relative Risk (Autumn),99.9% C.I. (Autumn),Autumn Significant?
+0,Other forms of heart disease|diseases of the circulatory system$F$61-,diseases of the circulatory system,1.0168420801379807,"{'CI': array([1.00193031, 1.03129165]), 'Gelman-Rubin': 0.9998058407953657}",Yes,0.974707265936324,"{'CI': array([0.95840401, 0.9914088 ]), 'Gelman-Rubin': 1.0002291842373738}",Yes

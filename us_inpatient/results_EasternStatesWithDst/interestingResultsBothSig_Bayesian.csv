@@ -1,0 +1,2 @@
+,Condition,System,Relative Risk (Spring),99.9% C.I. (Spring),Spring Significant?,Relative Risk (Autumn),99.9% C.I. (Autumn),Autumn Significant?
+0,Mental and behavioural disorders due to psychoactive substance use|mental and behavioural disorders$F$41-60,mental and behavioural disorders,0.9288753644910022,"{'CI': array([0.86491139, 0.99856579]), 'Gelman-Rubin': 0.9998327738536246}",Yes,1.080096686683402,"{'CI': array([1.00451676, 1.16030317]), 'Gelman-Rubin': 1.0002933560944727}",Yes
