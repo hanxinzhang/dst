@@ -4,7 +4,7 @@
   <img src="./DST_model.png" width="600">
 </p>
 
-This project features
+## This project features
 
 * a simple and beautiful Bayesian framework for relative risk estimation
 * a paradigm for correcting the multiple comparisons problem in a Bayesian way
