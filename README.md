@@ -11,11 +11,11 @@
 * one of the very few real-world examples indicating the equivalence between the Bayesian hierarchical model and the Frequentist method with false coverage rate (FCR) adjustment, 
 * findings of elevated risks distributed in various systems: circulatory and cardiovascular, injuries, pregnancy and childbirth, mental and behavioral, stress-related immune, etc.
 
-## Contents
-
 <p align="center">
   <img src="./us_inpat.png" width="900">
 </p>
+
+## Contents
 
 For US all patients (inpatients and outpatients) and US inpatients, we performed analyses on
 
@@ -24,7 +24,11 @@ For US all patients (inpatients and outpatients) and US inpatients, we performed
 * all states without DST as another negative control,
 * all northern, southern, eastern, and western DST states separately.
 
+using three approaches -- a Bayesian hierarchical model, a Frequentist approximation method, and a half-Bayesian approximation method.
+
 For Swedish inpatients, we performed analyses on 
 
 * medical records since 1980 when Sweden started observing DST,
 * medical records before 1980 as a negative control.
+
+using two approaches -- a Bayesian hierarchical model and a Frequentist approximation method.
