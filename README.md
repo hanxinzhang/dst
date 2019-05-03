@@ -26,13 +26,13 @@ For US all patients (inpatients and outpatients) and US inpatients, we performed
 * all states adopting DST,
 * all states adopting DST on pseudo-DST dates as a negative control,
 * all states without DST as another negative control,
-* all northern, southern, eastern, and western DST states separately.
+* all northern, southern, eastern, and western DST states separately
 
 using three approaches -- a Bayesian hierarchical model, a Frequentist approximation method, and a half-Bayesian approximation method.
 
 For Swedish inpatients, we performed analyses on 
 
 * medical records since 1980 when Sweden started observing DST,
-* medical records before 1980 as a negative control.
+* medical records before 1980 as a negative control
 
 using two approaches -- a Bayesian hierarchical model and a Frequentist approximation method.
