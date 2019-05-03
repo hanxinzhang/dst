@@ -13,7 +13,7 @@
 
 
 |Experiment | No. tests | No. sig. (Bayesian) | No. sig. (Frequentist) | No. sig. (half-Bayesian)|
-|:--------------|:--:|:--:|:--:|:--:|
+|--------------|:--:|:--:|:--:|:--:|
 |US all-patient, all DST states | 2025 | 290 | 265 | 265 |
 |US all-patient, northern DST states | 1691 | 180 | 287 | 287 |
 |US all-patient, southern DST states | 1802 | 181 | 191 | 191 |
