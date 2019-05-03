@@ -13,6 +13,10 @@
 
 ## Contents
 
+<p align="center">
+  <img src="./us_inpat.png" width="900">
+</p>
+
 For US all patients (inpatients and outpatients) and US inpatients, we performed analyses on
 
 * all states adopting DST,
