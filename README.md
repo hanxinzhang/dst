@@ -27,8 +27,8 @@ For US all patients (inpatients and outpatients) and US inpatients, we performed
 * all states adopting DST on pseudo-DST dates as a negative control,
 * all states without DST as another negative control,
 * all northern, southern, eastern, and western DST states separately,
-* all states adopting DST, first diagnoses of conditions of 0–10 children who were completely recorded from birth in our data,
-* all states adopting DST, first diagnoses, analyzed on pseudo-DST dates as a negative control
+* first diagnoses of conditions of 0–10-y/o children who were completely recorded from birth in our data,
+* first diagnoses on pseudo-DST dates as a negative control
 
 using three approaches -- a Bayesian hierarchical model, a Frequentist approximation method, and a half-Bayesian approximation method.
 
