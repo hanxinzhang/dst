@@ -38,3 +38,13 @@ For Swedish inpatients, we performed analyses on
 * medical records before 1980 as a negative control
 
 using two approaches -- a Bayesian hierarchical model and a Frequentist approximation method.
+
+## Population sizes
+
+The sizes of population strata are 
+
+| Stratum       | US all-patient |  US inpatient  | Swedish inpatient |
+|:--------------|:--------------:|:--------------:|:--------------:|
+| F, 0-10       | 187753727     | | |
+| M, 0-10       | 222314017     | | |
+
