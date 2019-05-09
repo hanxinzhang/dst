@@ -41,18 +41,18 @@ using two approaches -- a Bayesian hierarchical model and a Frequentist approxim
 
 ## Effective population sizes
 
-The effective sizes of population strata, computed as sum of population sizes on the DST spring change dates from 2003 to 2014, are 
+The effective sizes of population strata, computed as sum of population sizes on the DST spring change dates from 2003 to 2014 (or 2015 for the inpatient data), are 
 
-| Stratum       | US all-patient |  US inpatient  | Swedish inpatient |
-|:--------------|:--------------:|:--------------:|:--------------:|
-| F, 0–10       | 24,303,479       | | |
-| M, 0–10       | 25,421,528       | | |
-| F, 11–20      | 29,496,593       | | |
-| M, 11–20      | 30,677,787       | | |
-| F, 21–40      | 57,320,746       | | |
-| M, 21–40      | 52,366,989       | | |
-| F, 41–60      | 74,364,939       | | |
-| M, 41–60      | 66,205,024       | | |
-| F, 61–        | 33,281,829       | | |
-| M, 61–        | 28,399,046       | | |
+| Stratum       | US all-patient |  US inpatient  | 
+|:--------------|:--------------:|:--------------:|
+| F, 0–10       | 24,303,479     | 25,910,513     | 
+| M, 0–10       | 25,421,528     | 27,103,968     | 
+| F, 11–20      | 29,496,593     | 31,473,631     | 
+| M, 11–20      | 30,677,787     | 32,741,080     | 
+| F, 21–40      | 57,320,746     | 61,587,468     | 
+| M, 21–40      | 52,366,989     | 56,436,933     | 
+| F, 41–60      | 74,364,939     | 79,345,761     | 
+| M, 41–60      | 66,205,024     | 79,345,761     | 
+| F, 61–        | 33,281,829     | 35,507,396     | 
+| M, 61–        | 28,399,046     | 30,241,444     | 
 
