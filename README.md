@@ -39,12 +39,15 @@ For Swedish inpatients, we performed analyses on
 
 using two approaches -- a Bayesian hierarchical model and a Frequentist approximation method.
 
-## Population sizes
+## Effective population sizes
 
-The sizes of population strata are 
+The effective sizes of population strata, computed as sum of population sizes on the DST spring change dates from 2003 to 2014, are 
 
 | Stratum       | US all-patient |  US inpatient  | Swedish inpatient |
 |:--------------|:--------------:|:--------------:|:--------------:|
-| F, 0-10       | 187753727     | | |
-| M, 0-10       | 222314017     | | |
+| F, 0-10       | 24303479       | | |
+| M, 0-10       | 25421528       | | |
+| F, 11-20      | 29496593       | | |
+| M, 11-20      | 30677787       | | |
+| F, 21–40      |  57320746      | | |
 
