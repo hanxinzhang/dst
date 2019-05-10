@@ -63,8 +63,8 @@ The average effective population size around the DST change dates every year is 
 
 The elevation of relative risks translate to around
 
-* 4000 more diagnoses of hypertensive diseases, 
-* 1600 more attacks of other forms of heart disease, and 
+* 4,000 more diagnoses of hypertensive diseases, 
+* 1,600 more attacks of other forms of heart disease, and 
 * 700 more attacks of ischemic heart diseases in people over 60,
 * 500 more neurotic, stress-related and somatoform disorders in people aged 41–60,
 * 500 more behavioral and emotional disorders for 11–20 y/o,
@@ -72,7 +72,7 @@ The elevation of relative risks translate to around
 
 in the first week of daylight saving time on average.
 
-In total, about 45000 incidences of all kinds in the first week of DST could be linked to the time change. Considering the coverage rate of our data is about tenth around the DST change dates, 0.45 million incidences of diseases and conditions could emerge because of time change in the US. Globally, there could be 2 million more incidences of diseases in the post-spring-DST week associated with the time change. 
+In total, about 45,000 incidences of all kinds in the first week of DST could be linked to the time change. Considering the coverage rate of our data is about tenth around the DST change dates, 0.45 million incidences of diseases and conditions could emerge because of time change in the US. Globally, there could be 2 million more incidences of diseases in the post-spring-DST week associated with the time change. 
 
 
 
