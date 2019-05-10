@@ -70,7 +70,7 @@ The elevation of relative risks translate to around
 * 500 more behavioral and emotional disorders for 11–20 y/o,
 * 200 more diagnoses of noninfective enteritis and colitis in 21–40 y/o.
 
-in the first week of daylight saving time on average.
+in the first week of daylight saving time on average, out of 35 million people.
 
 In total, about 45,000 incidences of all kinds in the first week of DST could be linked to the time change. Considering the coverage rate of our data is about tenth around the DST change dates, 0.45 million incidences of diseases and conditions could emerge because of time change in the US. Globally, there could be 2 million more incidences of diseases in the post-spring-DST week associated with the time change. 
 
