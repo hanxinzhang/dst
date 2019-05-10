@@ -6,6 +6,7 @@
 
 ## This project features
 
+* an agnostic, phenome-wide association study testing the whole spectrum of diseases in large-scale health databases,
 * a simple and beautiful Bayesian framework for relative risk estimation,
 * a paradigm for correcting the multiple comparisons problem in a Bayesian way,
 * one of the very few real-world examples indicating the equivalence between the Bayesian hierarchical model and the Frequentist method with false coverage rate (FCR) adjustment, 
@@ -41,7 +42,7 @@ using two approaches -- a Bayesian hierarchical model and a Frequentist approxim
 
 ## Effective population sizes
 
-The effective sizes of population strata, computed as sum of population sizes on the DST spring change dates from 2003 to 2014 (or 2015 for the inpatient data), are 
+The effective sizes of population strata, computed as sum of population sizes on the spring DST change dates from 2003 to 2014 (or 2015 for the inpatient data), are 
 
 | Stratum       | US all-patient |  US inpatient  | 
 |:--------------|:--------------:|:--------------:|
@@ -55,4 +56,15 @@ The effective sizes of population strata, computed as sum of population sizes on
 | M, 41–60      | 66,205,024     | 70,589,479     | 
 | F, 61–        | 33,281,829     | 35,507,396     | 
 | M, 61–        | 28,399,046     | 30,241,444     | 
+
+## Cost of daylight saving time
+
+The elevation of relative risks translate to around
+
+* 3700 more diagnoses of hypertensive diseases, 
+* 1400 more attacks of other forms of heart disease, and 
+* 700 more attacks of ischemic heart diseases in people older than 60,
+* 400 more behavioral and emotional disorders for 11–20 y/o,
+* 200 more diagnoses of noninfective enteritis and colitis in 21–40 y/o,
+
 
