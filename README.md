@@ -72,7 +72,7 @@ The elevation of relative risks translate to around
 
 in the first week of daylight saving time on average.
 
-In total, about 45000 incidences of all kinds in the first week of DST could be linked to the time change. Nationwide, around 0.45 million incidences of diseases and conditions could emerge because of time change, and 2 million incidences globally.
+In total, about 45000 incidences of all kinds in the first week of DST could be linked to the time change. Considering the coverage rate of our data is about tenth around the DST change dates, 0.45 million incidences of diseases and conditions could emerge because of time change in the US. Globally, there could be 2 million more incidences of diseases in the post-spring-DST week associated with the time change. 
 
 
 
