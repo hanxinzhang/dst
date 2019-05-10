@@ -57,7 +57,7 @@ The effective sizes of population strata, computed as sum of population sizes on
 | F, 61–        | 33,281,829     | 35,507,396     | 
 | M, 61–        | 28,399,046     | 30,241,444     | 
 
-The average effective population size on the DST change dates every year is approximately 32 million. It means, on average, our database cover around 32 million people in the US around the DST dates every year. This represents about tenth of the whole country.
+The average effective population size around the DST change dates every year is approximately 32 million. It means, on average, our database cover around 32 million people in the US around the DST dates every year. This represents about tenth of the whole country.
 
 ## Cost of daylight saving time
 
