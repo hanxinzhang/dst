@@ -57,6 +57,8 @@ The effective sizes of population strata, computed as sum of population sizes on
 | F, 61–        | 33,281,829     | 35,507,396     | 
 | M, 61–        | 28,399,046     | 30,241,444     | 
 
+The average effective population size on the DST change dates every year is approximately 32 million. It means, on average, our database cover around 32 million people in the US around the DST dates every year. This represents about tenth of the whole country.
+
 ## Cost of daylight saving time
 
 The elevation of relative risks translate to around
@@ -70,7 +72,7 @@ The elevation of relative risks translate to around
 
 in the first week of daylight saving time on average.
 
-In total, 41500 more incidences in the first week of DST could be linked to the time change.
+In total, 41500 incidences of all kinds in the first week of DST could be linked to the time change. Nationwide, around 0.4 million incidences of diseases and conditions could emerge because of time change.
 
 
 
