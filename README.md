@@ -63,8 +63,15 @@ The elevation of relative risks translate to around
 
 * 3700 more diagnoses of hypertensive diseases, 
 * 1400 more attacks of other forms of heart disease, and 
-* 700 more attacks of ischemic heart diseases in people older than 60,
+* 700 more attacks of ischemic heart diseases in people over 60,
+* 500 more neurotic, stress-related and somatoform disorders in people aged 41–60,
 * 400 more behavioral and emotional disorders for 11–20 y/o,
-* 200 more diagnoses of noninfective enteritis and colitis in 21–40 y/o,
+* 200 more diagnoses of noninfective enteritis and colitis in 21–40 y/o.
+
+in the first week of daylight saving time on average.
+
+In total, 41500 more incidences in the first week of DST could be linked to the time change.
+
+
 
 
