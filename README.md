@@ -44,7 +44,7 @@ using two approaches -- a Bayesian hierarchical model and a Frequentist approxim
 
 The effective sizes of population strata, computed as sum of population sizes on the spring DST change dates from 2003 to 2014 (or 2015 for the inpatient data), are 
 
-<p align="left">
+<center>
 | Stratum       | US all-patient |  US inpatient  | 
 |:--------------|:--------------:|:--------------:|
 | F, 0–10       | 24,303,479     | 25,910,513     | 
@@ -57,7 +57,7 @@ The effective sizes of population strata, computed as sum of population sizes on
 | M, 41–60      | 66,205,024     | 70,589,479     | 
 | F, 61–        | 33,281,829     | 35,507,396     | 
 | M, 61–        | 28,399,046     | 30,241,444     | 
-</p>
+</center>
 
 The average effective population size around the DST change dates every year is approximately 35 million. It means, on average, our database cover around 35 million people in the US around the DST dates every year. This represents about tenth of the whole country.
 
