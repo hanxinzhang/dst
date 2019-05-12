@@ -63,10 +63,8 @@ The average effective population size around the DST change dates every year is 
 
 The elevation of relative risks translate to around
 
-* 4,000 more diagnoses of hypertensive diseases, 
-* 1,600 more attacks of other forms of heart disease, and 
-* 700 more attacks of ischemic heart diseases in people over 60,
-* 500 more neurotic, stress-related and somatoform disorders in people aged 41–60,
+* 600 more inpatient attacks of other forms of heart disease, and 
+* 300 more inpatient attacks of ischemic heart diseases in people over 60,
 * 500 more behavioral and emotional disorders for 11–20 y/o,
 * 200 more diagnoses of noninfective enteritis and colitis in 21–40 y/o.
 
