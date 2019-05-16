@@ -77,11 +77,11 @@ In total, about 15,000 incidences of all kinds in the first week of DST could be
 The multiplicity of constructing thousands of credible or confidence intervals simultaneously in the present study may give rise to erroneous inference. We controlled this problem in different but appropriate ways for the Bayesian and frequentist methods. For the Bayesian method, we controlled the multiplicity by an across-the-board prior over all RRs. Sampling for such prior would shrink all relative risks towards the mean and restrain significance of posterior intervals. We adjusted simultaneous confidence intervals constructed in the frequentist analyses by controlling the false coverage rate (or false coverage-statement rate, FCR). The FCR correction procedure would not shrink the RR estimate itself but make the confidence interval more conservative (wider).
 
 <p align="center">
-  <img src="./methods_us_allpat_0.png" width="600">
+  <img src="./methods_us_allpat_0.png" height="400">
 </p>
 
 <p align="center">
-  <img src="./methods_us_allpat_1.png" width="600">
+  <img src="./methods_us_allpat_1.png" height="400">
 </p>
 
 
