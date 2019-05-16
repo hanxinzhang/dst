@@ -59,7 +59,7 @@ The effective sizes of population strata, computed as sum of population sizes on
 
 The average effective population size around the DST change dates every year is approximately 35 million. It means, on average, our database cover around 35 million people in the US around the DST dates every year. This represents about tenth of the whole country.
 
-## Cost of daylight saving time
+## Cost of daylight saving time change
 
 The elevation of relative risks translate to around
 
@@ -71,6 +71,10 @@ The elevation of relative risks translate to around
 in the first week of daylight saving time on average, out of 35 million people.
 
 In total, about 15,000 incidences of all kinds in the first week of DST could be linked to the time change. Considering the coverage rate of our data is about tenth around the DST change dates, 0.15 million incidences of diseases and conditions could emerge because of time change in the US. Globally, there could be 0.88 million more incidences of diseases in the post-spring-DST week associated with the time change. 
+
+## Bayesian shrinkage procedure and the multiple comparisons problem
+
+The multiplicity of constructing thousands of credible or confidence intervals simultaneously in the present study may give rise to erroneous inference. We controlled this problem in different but appropriate ways for the Bayesian and frequentist methods. For the Bayesian method, we controlled the multiplicity by an across-the-board prior over all RRs.
 
 
 
