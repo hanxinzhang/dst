@@ -1,3 +1,0 @@
-,Condition,System,Relative Risk (Spring),99.9% C.I. (Spring),Spring Significant?,Relative Risk (Autumn),99.9% C.I. (Autumn),Autumn Significant?
-0,Diabetes mellitus|endocrine diseases$F$61-,endocrine diseases,1.0386735555343043,"{'CI': array([1.00104691, 1.07958406]), 'Gelman-Rubin': 1.0000671143041406}",Yes,1.0050936802760841,"{'CI': array([0.96422045, 1.04493033]), 'Gelman-Rubin': 1.000519458346666}",No
-1,Persons encountering health services for examination and investigation|external causes of morbidity and mortality$F$21-40,external causes of morbidity and mortality,0.9641939373063203,"{'CI': array([0.93596443, 0.99442337]), 'Gelman-Rubin': 1.0000321568897867}",Yes,0.9901511021307211,"{'CI': array([0.96066603, 1.02149336]), 'Gelman-Rubin': 0.9999092911353932}",No
