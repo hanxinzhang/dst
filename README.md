@@ -13,10 +13,6 @@
 * findings of elevated risks distributed in various systems: circulatory and cardiovascular, injuries, pregnancy and childbirth, mental and behavioral, stress-related immune, etc.
 
 <p align="left">
-  <img src="./us_allpat.png" width="900">
-</p>
-
-<p align="left">
   <img src="./us_inpat.png" width="800">
 </p>
 
